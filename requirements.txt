@@ -7,3 +7,6 @@ gunicorn==20.1.0
 scikit-learn==1.1.1
 xgboost==1.5.1
 
+=======
+Python==3.8.5
+>>>>>>> 3f835156997ca0c6c7b0ca5c251c9d84cc35e56a
